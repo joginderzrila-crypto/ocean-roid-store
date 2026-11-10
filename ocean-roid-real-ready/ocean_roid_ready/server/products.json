@@ -1,0 +1,15 @@
+[
+{"n":"Signature Square Polaroid","t":"pol","w":6,"h":6.97,"q":"12 prints","f":"Glossy","p":129,"d":"Classic square Polaroid prints with a stylish border."},
+{"n":"Retro Portrait Polaroid","t":"pol","w":6,"h":8.93,"q":"10 prints","f":"Glossy","p":149,"d":"Retro-style portrait prints."},
+{"n":"Vintage Border Polaroid","t":"pol","w":6,"h":6.97,"q":"12 prints","f":"Matte","p":169,"d":"Vintage-inspired Polaroid prints with an elegant border."},
+{"n":"Personalized Polaroid","t":"pol","w":6,"h":8.93,"q":"12 prints","f":"Matte","p":149,"d":"Customized Polaroid prints using your personal photographs."},
+{"n":"Spotify Polaroid — Glossy","t":"sp","w":6,"h":9,"q":"6 prints","f":"Glossy","p":149,"d":"Personalized music-themed Polaroid with photo and song details."},
+{"n":"Spotify Polaroid — Matte","t":"sp","w":6,"h":9,"q":"6 prints","f":"Matte","p":149,"d":"Personalized music-themed Polaroid with photo and song details."},
+{"n":"Timeless Classic Polaroid — Glossy","t":"pol","w":7,"h":10,"q":"10 prints","f":"Glossy","p":199,"d":"Classic Polaroid prints with a timeless look."},
+{"n":"Timeless Classic Polaroid — Matte","t":"pol","w":7,"h":10,"q":"10 prints","f":"Matte","p":199,"d":"Classic Polaroid prints with a timeless look."},
+{"n":"Red Cover Memories Mini Magazine","t":"mag","w":12,"h":10,"q":"12 pages","f":"Glossy","p":209,"d":"Compact red-cover photo magazine for preserving memories."},
+{"n":"Pocket Personalized Photo Magazine","t":"mag","w":5,"h":6,"q":"12 pages","f":"Glossy","p":129,"d":"Personalized mini photo magazine."},
+{"n":"A7 Personalized Photo Magazine","t":"mag","w":7.4,"h":10.5,"q":"10 pages","f":"Glossy","p":229,"d":"Personalized A7 photo magazine."},
+{"n":"A6 Personalized Photo Magazine","t":"mag","w":10.5,"h":14.8,"q":"8 pages","f":"Glossy","p":199,"d":"Customized A6 photo magazine."},
+{"n":"A5 Personalized Photo Magazine","t":"mag","w":14.8,"h":21,"q":"6 pages","f":"Glossy","p":249,"d":"Personalized A5 photo magazine."}
+]
